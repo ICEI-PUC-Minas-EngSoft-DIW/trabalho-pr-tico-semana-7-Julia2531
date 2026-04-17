@@ -4,12 +4,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Julia Vitória Santiago Assunção 
+- Matricula: 927613
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print prompts](/public/img/Capituraprompts.png)
+![Print Console](/public/img/Capturamensagemconsole.png)
 
 
 
